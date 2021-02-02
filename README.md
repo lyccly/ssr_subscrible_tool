@@ -1,22 +1,18 @@
 # README
-如果你不知道怎么使用这个工具，请看[这个视频](https://www.youtube.com/watch?v=1Pm2gzSDaX0)。
+优质节点，
 
-Good luck, guys!
+# SS节点列表
+2020.02.02
+ss://YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFwQDg5LjE4Ny4xNjEuNDo0MDA5Mw==#adi%7C0130+-+%E6%97%A5%E6%9C%AC4.1E
+ss://YWVzLTI1Ni1nY206Q1VuZFNabllzUEtjdTZLajhUSFZNQkhEQDQ1Ljg3LjIxMy4xMDU6Mzk3NzI=#adi%7C0201+-+%E6%97%A5%E6%9C%AC105.53
+ss://YWVzLTI1Ni1nY206Q1VuZFNabllzUEtjdTZLajhUSFZNQkhEQDQ1Ljg3LjIxMy43OjM5Nzcy#adi%7C0130+-+%E6%97%A5%E6%9C%AC7.83
+ss://YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFwQDg5LjE4Ny4xNjEuNDo0MDA5Mw==#github.com%2Ffreefq+-+%E6%97%A5%E6%9C%AC%E4%B8%9C%E4%BA%ACCDN77%E8%8A%82%E7%82%B94.9B
 
-# SSR节点列表生成器
-> 适配ios版shadowrocket，PC或Mac版小飞机,
-
-## 说明
-- `/dist `位节点生成的目录,这个目录是给[netlify](https://app.netlify.com/)应用的
-- `node.txt`为SS或SSR节点列表文件(支持类bash脚本注释，举个栗子: `# 注释`)
-- `app.js`为项目的核心逻辑
-
-如果你有什么问题，Please open an issues
 
 
 ## 更新说明
-- 支持SS或者SSR
+- 不定期更新，只提供最优质节点信息。
 
 ## 问题
-- 据反映安卓或者Windows客户端可能无法订阅成功，请为添加的每一个节点设置相同的**分组**
+- 因节点为免费节点，不保证时效性，如节点不可使用请等待下次更新。
 
